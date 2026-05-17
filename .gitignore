@@ -1,0 +1,18 @@
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pkl
+*.pyc
+.env
+
+# Data files — never commit raw data to GitHub
+*.csv
+ml-service/data/
+
+# Node
+node_modules/
+backend/.env
+frontend/.env
+
+# VS Code
+.vscode/
